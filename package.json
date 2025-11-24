@@ -1,0 +1,33 @@
+{
+  "name": "trabalhoppi",
+  "version": "1.0.0",
+  "description": "primeiro trabalho de PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenadasilva/trabalhoPPi.git"
+  },
+  "keywords": [
+    "http",
+    "expresss",
+    "node",
+    "PPI"
+  ],
+  "author": "Lorena da Silva Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenadasilva/trabalhoPPi/issues"
+  },
+  "homepage": "https://github.com/lorenadasilva/trabalhoPPi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "session": "^0.1.0"
+  }
+}
